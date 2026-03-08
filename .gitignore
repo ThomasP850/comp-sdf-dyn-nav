@@ -3,3 +3,9 @@ data-igibson/to-*
 .vscode/
 *.pt
 *.pth
+
+
+# Repo-specific stuff
+ckpts/
+data/igibson
+data-igibson/Rs_int_mesh_cc.obj
